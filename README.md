@@ -1,6 +1,4 @@
--  Hi, I’m Himiko Azuria, aka Antsa Rakotoarijaona
--  I’m interested in programming: web, mobile and desk, game-dev and chilling ;)
--  I’m currently learning TypeScript, Angular and trying to keep up to date my Java knowledge :) (lol...)
+Hi, I’m Himiko Azuria, aka Antsa Rakotoarijaona
 -  I’m looking to collaborate on chill project or anything else...
 -  How to reach me... send me a Hello ( World ) on Messenger : Antsa Rakotoarijaona
 <!---
